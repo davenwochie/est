@@ -1,0 +1,21 @@
+.navbar img{
+    width: 75px;
+    height: 100%;
+    object-fit: cover;
+    
+}
+.navbar li a{
+    font-size: 1.1rem !important;
+    line-height: 1rem !important ;
+    font-weight: bold;
+    color: white !important;
+}
+.col .card{
+    height: 64vh !important;
+  
+   }
+.card1 img{
+    height: 60%;
+    width: 100%;
+   }
+
